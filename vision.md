@@ -1,4 +1,4 @@
-# Mapa Zniżek Studenckich
+# Greedy student
 
 Studenci często zmagają się z ograniczonym budżetem i mają trudności ze sprawnym znajdowaniem atrakcyjnych, sprawdzonych ofert w pobliżu swojego kampusu.
 
@@ -6,10 +6,10 @@ Chcemy stworzyć **interaktywną Mapę Zniżek Studenckich**, która zgromadzi w
 
 Aplikacja w czasie rzeczywistym wskaże najbliższe:
 
-- lokale gastronomiczne,
+- restauracje,
 - kawiarnie,
-- punkty ksero,
-- instytucje kultury
+- bary,
+- muzea
 
 oferujące specjalne ceny dla studentów.
 
@@ -19,20 +19,4 @@ Użytkownik będzie mógł intuicyjnie filtrować dostępne oferty według:
 - odległości od wydziału,
 - procentowej wielkości rabatu.
 
-System wykorzysta dane o lokalizacji, aby proaktywnie proponować najlepsze opcje na tani lunch lub szybką kawę w przerwie między wykładami.
-
-## Moduł społecznościowy
-
-Zasadniczym elementem platformy będzie moduł społecznościowy, pozwalający samym studentom na:
-
-- zgłaszanie nowych zniżek,
-- weryfikowanie aktualności już istniejących ofert,
-- dodawanie opinii.
-
-Dzięki wspólnemu zaangażowaniu użytkowników baza miejsc przyjaznych studentom będzie stale rosnąć i utrzymywać wysoką wiarygodność.
-
-## Korzyści
-
-Narzędzie nie tylko ułatwi codzienne zarządzanie finansami młodym ludziom, ale również pomoże lokalnym biznesom dotrzeć do akademickiej społeczności.
-
-W efekcie powstanie **dynamiczny przewodnik**, który realnie odciąży studencki portfel i ułatwi codzienne życie w mieście.
+System wykorzysta dane o lokalizacji, aby na żywo proponować najlepsze opcje na tani obiad lub szybką kawę w przerwie między wykładami.
