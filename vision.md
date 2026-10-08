@@ -2,7 +2,7 @@
 
 Studenci często zmagają się z ograniczonym budżetem i mają trudności ze sprawnym znajdowaniem atrakcyjnych, sprawdzonych ofert w pobliżu swojego kampusu.
 
-Chcemy stworzyć **interaktywną Mapę Zniżek Studenckich**, która zgromadzi w jednym miejscu wszystkie aktualne promocje i rabaty dostępne po okazaniu legitymacji.
+Chcemy stworzyć **interaktywną Mapę Zniżek Studenckich**, która zgromadzi w jednym miejscu wszystkie aktualne promocje i rabaty dostępne po okazaniu legitymacji studenckiej.
 
 Aplikacja w czasie rzeczywistym wskaże najbliższe:
 
