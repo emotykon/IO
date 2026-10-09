@@ -19,4 +19,4 @@ Użytkownik będzie mógł intuicyjnie filtrować dostępne oferty według:
 - odległości od wydziału,
 - procentowej wielkości rabatu.
 
-System wykorzysta dane o lokalizacji, aby na żywo proponować najlepsze opcje na tani obiad lub szybką kawę w przerwie między wykładami.
+System wykorzysta dane o lokalizacji studenta, aby na żywo proponować najlepsze opcje na tani obiad lub szybką kawę w przerwie między wykładami.
